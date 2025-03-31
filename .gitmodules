@@ -1,6 +1,6 @@
 [submodule "client"]
 	path = client
-	url = https://github.com/bedirhantong/LoncaCaseStudy.git
+	url = https://github.com/bedirhantong/lonca-shopping-case-mobile.git
 [submodule "server"]
 	path = server
-	url = https://github.com/bedirhantong/LoncaCaseStudy.git
+	url = https://github.com/bedirhantong/lonca-shopping-case-server.git
