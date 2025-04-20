@@ -1,5 +1,5 @@
 # Lonca App
-
+![](./assets/lonca-showcase.png)
 Lonca App, modern bir e-ticaret platformu olup, React Native tabanlı mobil uygulama ve Node.js tabanlı RESTful API'den oluşmaktadır.
 
 ## 📱 Mobil Uygulama (Client)
